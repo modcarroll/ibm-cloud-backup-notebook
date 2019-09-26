@@ -2,7 +2,7 @@
 
 This notebook was inspired by the [IBM Cloud backup tool](https://github.com/modlanglais/ibm-cloud-backup) and is meant to be used in [Watson Studio](https://dataplatform.cloud.ibm.com/). This notebook will, given the credentials, backup the data in Watson Assistant and Watson Discovery. The data will be saved in the Watson Studio project it is executed in, as a set of assets.
 
-To use..
+## Get Started
 
 1.) `git clone https://github.com/modlanglais/ibm-cloud-backup-notebook`
 
@@ -22,7 +22,7 @@ To use..
 
 
 
-To schedule your notebook:
+## To schedule your notebook:
 
 1.) Click the jobs icon from the notebook’s menu bar and select Create a job.
 
