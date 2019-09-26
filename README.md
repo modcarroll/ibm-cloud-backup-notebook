@@ -16,9 +16,13 @@ This notebook was inspired by the [IBM Cloud backup tool](https://github.com/mod
 
 6.) Give your notebook description (optional) and select the runtime. Make sure to select a Python runtime. (Note: The Name field will be automatically populated during the next step.)
 
-7.) Click 'Choose file' and select 'IBM Cloud Backup.ipynb' from your machine. If you prefer a different name, edit the Name field here.
+7.) Click 'Choose file' and select 'IBM Cloud Backup.ipynb' from your machine. If you prefer a different name, edit the Name field here. Select 'Create notebook.'
 
-8.) From here, follow the directions in the notebook to add your credentials and run.
+8.) Once the notebook loads, position your cursor in the block near the top that says, "# Insert project credentials here by clicking the three ellipses on the toolbar above then 'Insert project token'". Click the three ellipses on the toolbar above and click 'Insert project token.'
+
+9.) Scroll down to the credentials section. Modify the credentials in the specified fields for the Assistant and Discovery instances you would like to backup.
+
+10.) On the toolbar, click Cell > Run All.
 
 
 
